@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">NestedFragsBackstackP3</string>
+    <string name="title_activity_host">NestedFragmentsP3</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="titles">
+        <item>@string/title_section1</item>
+        <item>@string/title_section2</item>
+        <item>@string/title_section3</item>
+    </string-array>
+</resources>
